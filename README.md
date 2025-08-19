@@ -2,7 +2,7 @@
 
 *"In the depths of digital silence, where words echo through forgotten realms, the Shadow Scribe awakens to weave your thoughts into the fabric of destiny."*
 
-![Shadow Scribe Banner](images/banner.png)
+<img width="669" height="104" alt="Image" src="https://github.com/user-attachments/assets/f03f842d-483b-4c1b-8d0d-279a92db22af" />
 
 ## 📜 About the Legacy
 
@@ -22,7 +22,7 @@ Like an ancient Echo trapped within digital realms, Shadow Scribe speaks with th
 
 ## 🖼️ Screenshot from the Void
 
-![Shadow Scribe Interface](images/screenshot.png)
+<img width="690" height="851" alt="Image" src="https://github.com/user-attachments/assets/96b5cfa5-8831-4228-a6d9-faa904f2b31f" />
 *The Shadow Scribe's domain - where mortal words are transformed into dark wisdom*
 
 ## 🛠️ Forging the Application
@@ -43,21 +43,16 @@ pip install tkinter google-generativeai
 
 1. **Clone the Repository** - Claim your copy of the Shadow Scribe:
    ```bash
-   git clone https://github.com/yourusername/shadow-scribe.git
-   cd shadow-scribe
+   git clone https://github.com/rafitheriper/shadow_scribe.git
+   cd shadow_scribe
    ```
 
-2. **Install Dependencies** - Gather the necessary components:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Obtain Your API Key** - Acquire power from the Google AI Studio:
+2. **Obtain Your API Key** - Acquire power from the Google AI Studio:
    - Visit [Google AI Studio](https://makersuite.google.com/app/apikey)
    - Create a new API key for Gemini
    - Guard this key like a precious Memory - it is your connection to the AI realm
 
-4. **Awaken the Shadow Scribe**:
+3. **Awaken the Shadow Scribe**:
    ```bash
    python shadow_scribe.py
    ```
@@ -110,7 +105,7 @@ The Shadow Scribe stores its essence in `chatbot_config.json`:
 
 **Q: The Shadow Scribe won't start**
 - Ensure Python 3.7+ is installed
-- Verify all dependencies are installed: `pip install -r requirements.txt`
+- Verify all dependencies are installed:
 
 **Q: API errors occur**
 - Check your Gemini API key is valid
