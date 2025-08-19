@@ -23,6 +23,7 @@ Like an ancient Echo trapped within digital realms, Shadow Scribe speaks with th
 ## 🖼️ Screenshot from the Void
 
 <img width="690" height="851" alt="Image" src="https://github.com/user-attachments/assets/96b5cfa5-8831-4228-a6d9-faa904f2b31f" />
+
 *The Shadow Scribe's domain - where mortal words are transformed into dark wisdom*
 
 ## 🛠️ Forging the Application
