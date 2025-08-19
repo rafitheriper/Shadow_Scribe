@@ -136,12 +136,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Guiltythree** - Creator of Shadow Slave, the inspiration for this dark aesthetic
 - **Google AI** - Providers of the Gemini API that powers our Shadow Scribe
 - **The Python Community** - Maintainers of tkinter and the tools that make this possible
-- **All Beta Testers** - Brave souls who tested the Shadow Scribe in its early forms
 
 ---
 
 *"Remember, young scribe - in the realm of words, even the smallest correction can change the course of destiny. Let the Shadow Scribe be your guide through the labyrinth of language."*
 
-![Footer Image](images/footer_shadow.png)
+<img width="735" height="125" alt="Image" src="https://github.com/user-attachments/assets/1cb7647d-d75e-4c9b-a489-a0423af5c0a2" />
 
 **Created with 🖤 by the disciples of digital shadows**
